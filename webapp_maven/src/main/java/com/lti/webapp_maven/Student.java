@@ -7,6 +7,6 @@ public class Student{
 
 	public static void main(String [] args) {
 		System.out.println("rohra");
-		System.out.println("rohit);
+		System.out.println("rohit");
 	}
 }
