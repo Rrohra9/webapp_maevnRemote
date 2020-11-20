@@ -1,5 +1,10 @@
+package com.lti.webapp_maven;
+
+
+
 public class Student{
 
-System.out.println("rohit");
+	public static void main(String [] args) {
+System.out.println("rohit");}
 
 }
